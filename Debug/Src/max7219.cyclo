@@ -1,0 +1,7 @@
+max7219.c:14:6:max7219Init	1
+max7219.c:32:6:max7219TurnOn	1
+max7219.c:38:6:max7219Shutdown	1
+max7219.c:44:6:max7219SetDecodeMode	1
+max7219.c:52:6:max7219ResetDigits	2
+max7219.c:63:6:max7219Clear	2
+max7219.c:73:6:max7219TestDigits	2
